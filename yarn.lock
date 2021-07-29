@@ -1229,30 +1229,12 @@
   dependencies:
     ckeditor5 "^29.0.0"
 
-"@ckeditor/ckeditor5-build-classic@^29.0.1":
-  version "29.0.0"
-  resolved "https://registry.nlark.com/@ckeditor/ckeditor5-build-classic/download/@ckeditor/ckeditor5-build-classic-29.0.0.tgz#1d245a8482d3e4185b386ccf7fa139b53583bdba"
-  integrity sha1-HSRahILT5BhbOGzPf6E5tTWDvbo=
+"@ckeditor/ckeditor5-build-classic@^29.0.25":
+  version "29.0.25"
+  resolved "https://npm.jinshuju.co/repository/jsjnpmdl/@ckeditor/ckeditor5-build-classic/-/ckeditor5-build-classic-29.0.25.tgz#5c0b080f76d51e71f8202bd52b2486303050fdb1"
+  integrity sha512-XW0+spWwfwaKXa+fmMhjm1IIMtgqyftsHOzNmEVjynCR4VV4KqWMVIgZ9f3acCRIDUiI0DJaCtUaEgwGvRZduw==
   dependencies:
-    "@ckeditor/ckeditor5-adapter-ckfinder" "^29.0.0"
-    "@ckeditor/ckeditor5-autoformat" "^29.0.0"
-    "@ckeditor/ckeditor5-basic-styles" "^29.0.0"
-    "@ckeditor/ckeditor5-block-quote" "^29.0.0"
-    "@ckeditor/ckeditor5-ckfinder" "^29.0.0"
-    "@ckeditor/ckeditor5-cloud-services" "^29.0.0"
-    "@ckeditor/ckeditor5-easy-image" "^29.0.0"
-    "@ckeditor/ckeditor5-editor-classic" "^29.0.0"
-    "@ckeditor/ckeditor5-essentials" "^29.0.0"
-    "@ckeditor/ckeditor5-heading" "^29.0.0"
-    "@ckeditor/ckeditor5-image" "^29.0.0"
-    "@ckeditor/ckeditor5-indent" "^29.0.0"
-    "@ckeditor/ckeditor5-link" "^29.0.0"
-    "@ckeditor/ckeditor5-list" "^29.0.0"
-    "@ckeditor/ckeditor5-media-embed" "^29.0.0"
-    "@ckeditor/ckeditor5-paragraph" "^29.0.0"
-    "@ckeditor/ckeditor5-paste-from-office" "^29.0.0"
-    "@ckeditor/ckeditor5-table" "^29.0.0"
-    "@ckeditor/ckeditor5-typing" "^29.0.0"
+    "@ckeditor/ckeditor5-editor-inline" "^29.0.0"
 
 "@ckeditor/ckeditor5-build-inline@^29.0.0":
   version "29.0.0"
@@ -1320,14 +1302,6 @@
   integrity sha1-2cYlWxFr1aMtxG6eZNWZ3N2CKbw=
   dependencies:
     ckeditor5 "^29.0.0"
-
-"@ckeditor/ckeditor5-editor-classic@^29.0.0":
-  version "29.0.0"
-  resolved "https://registry.nlark.com/@ckeditor/ckeditor5-editor-classic/download/@ckeditor/ckeditor5-editor-classic-29.0.0.tgz#19b574f58c9f5c9917d44f0bf04ed7069daf0569"
-  integrity sha1-GbV09YyfXJkX1E8L8E7XBp2vBWk=
-  dependencies:
-    ckeditor5 "^29.0.0"
-    lodash-es "^4.17.15"
 
 "@ckeditor/ckeditor5-editor-inline@^29.0.0":
   version "29.0.0"
@@ -1522,6 +1496,11 @@
   version "10.1.0"
   resolved "https://registry.nlark.com/@csstools/normalize.css/download/@csstools/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha1-8JULuhiBlRLUL3GX5WxRiqSRzxg=
+
+"@editorx/ckeditor5-build-classic@^1.0.2":
+  version "1.0.2"
+  resolved "https://npm.jinshuju.co/repository/jsjnpmdl/@editorx/ckeditor5-build-classic/-/ckeditor5-build-classic-1.0.2.tgz#d180f8addd3f41e5c027ef537ffa872e35a7ba68"
+  integrity sha512-Vu11fyFEd+OFQ+PJaIF1WcXfBzzqK8EFx2VPsZjT6Oxq3aiQ1qKg0RhM4FjMi0ofy7d+Aj8PofYgw2qEUxzZVg==
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
